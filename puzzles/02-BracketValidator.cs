@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Algorithms.puzzles
 {
     /// <summary>
+    /// https://www.interviewcake.com/question/bracket-validator
     /// You're working with an intern that keeps coming to you with JavaScript code that won't run because the braces, brackets, and parentheses are off. To save you both some time, you decide to write a braces/brackets/parentheses validator.
     /// Let's say:
     /// '(', '{', '[' are called "openers."
