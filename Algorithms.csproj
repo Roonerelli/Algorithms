@@ -51,6 +51,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="puzzles\01-find-unique-int-among-duplicates.cs" />
     <Compile Include="puzzles\02-BracketValidator.cs" />
+    <Compile Include="puzzles\03 QueueWithTwoStacks.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
